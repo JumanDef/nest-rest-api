@@ -39,5 +39,5 @@ $ npm run test:cov
 
 ## Stay in touch
 
-- Author - [Jumanazar Nizamidinov]
+- Author - Jumanazar Nizamidinov
 - Telegram - [https://t.me/juman_dev](https://t.me/juman_dev)
